@@ -37,3 +37,6 @@ Veri seti üzerindeki değişkenler sırasıyla şöyledir;
 
 **şehir:** Ürünün satıldığı şehir
 
+# Kaynak
+https://www.veribilimiokulu.com/
+
